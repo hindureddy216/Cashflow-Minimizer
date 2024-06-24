@@ -13,10 +13,3 @@ Welcome to the Cash Flow Minimizer System, a Java application designed to minimi
 
 - Java Development Kit (JDK) installed (version 8 or higher).
 - An IDE or text editor of your choice.
-
-## How to Run
-
-1. *Clone the Repository:*
-   ```sh
-   git clone https://github.com/your-username/cash-flow-minimizer.git
-   cd cash-flow-minimizer
